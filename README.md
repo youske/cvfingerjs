@@ -1,0 +1,4 @@
+cvfingerjs
+==========
+
+canvas fingerprinting javascript
